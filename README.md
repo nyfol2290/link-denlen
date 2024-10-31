@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @link-denlen
-- 🌱 I’m currently learning PYTHON/C++ and Win32
-- 📫 How to reach me DenLen
-- ⚡ Fun fact: I'M DONT NO HOW TO EDIT x64 PROJECT C++ TO WIN32 C++ PROJECT
+- 👋 Hi, I’m @nyfol2290
+- 🌱 I’m currently learning C++
+- 📫 How to reach me: dxxeas@gmail.com
+- Age: 9 (real)
+- Country from: Ukraine 
